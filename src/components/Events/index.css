@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.event-background {
+  display: flex;
+}
+.event-list-container {
+  display: flex;
+  list-style-type: none;
+  flex-wrap: wrap;
+}
+.event-list-div {
+  background-color: #475569;
+  background-size: cover;
+
+  align-items: flex-start;
+  width: 60vw;
+}

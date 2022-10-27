@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.event-item-image {
+  width: 100%;
+}
+.button-status {
+  outline: thin green;
+  border: none;
+  background-color: transparent;
+  padding: 0px;
+  cursor: pointer;
+  text-align: left;
+}
+.event-list-item {
+  line-height: 1;
+  width: 200px;
+  margin: 10px;
+}
+.name-heading {
+  font-size: 18px;
+  color: white;
+  padding: 0px;
+}
+.location-para {
+  color: white;
+  font-size: 12px;
+  padding: 0px;
+}
